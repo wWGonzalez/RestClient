@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RestClient</string>
+    <string name="button1">Agregar Usuarios</string>
+    <string name="button2">Buscar Usuarios</string>
+    <string name="buttonBuscar">Buscar Por</string>
+    <string name="txt_autenticado">Usuario Autenticado</string>
+
+    <string-array name="atributos_user">
+        <item>Listar Todo</item>
+        <item>name</item>
+        <item>email</item>
+    </string-array>
+</resources>
